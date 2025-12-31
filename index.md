@@ -20,4 +20,7 @@ geometric and equivariant machine learning for molecular systems.
 - [Google Scholar](https://scholar.google.com/citations?user=sjXGN6MAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/guillem-simeon-7355a717a)
 - [CV](cv-guillem-simeon.pdf)
-- Email: guillem.simeon@gmail.com
+
+## Contact
+
+guillem.simeon@gmail.com
